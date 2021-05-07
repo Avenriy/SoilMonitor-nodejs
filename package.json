@@ -1,0 +1,14 @@
+{
+  "name": "obniz-yl69",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1222-takeshi",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "obniz": "^3.14.0"
+  }
+}
