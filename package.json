@@ -3,12 +3,19 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node ./obniz-yl69.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "1222-takeshi",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "obniz": "^3.14.0"
+    "axios": "^0.21.1",
+    "canvas": "^2.7.0",
+    "chart.js": "^3.2.1",
+    "line-notify-nodejs": "^1.0.0",
+    "node": "^16.1.0",
+    "obniz": "^3.14.0",
+    "querystring": "^0.2.1"
   }
 }
